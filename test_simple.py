@@ -6,7 +6,7 @@ import time
 
 @pytest.fixture()
 def browser():
-    """Какой-нибудь браузер - chrome or firefox"""
+    """Мой браузер"""
     time.sleep(1)
 
 
