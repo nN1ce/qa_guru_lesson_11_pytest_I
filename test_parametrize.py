@@ -67,7 +67,7 @@ class User:
     description: str
 
     # def __repr__(self):
-    #     return f"{self.name} ({self.id})"
+        # return f"{self.name} ({self.id})"
 
 
 user1 = User(id=1, name="Mario", age=32, description="something " * 10)
